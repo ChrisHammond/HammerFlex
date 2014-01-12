@@ -39,6 +39,8 @@ a.btn, a.btn:visited {
 /*override for dnnLabels in the bootstrap */
 .form-group .dnnLabel{text-align:left;width:auto;}
 
+.dnnLabel + span{white-space:normal;}
+
 /* ADMIN */
 
 #ControlBar, #ControlBar:before, #ControlBar:after, #ControlBar *:before, #ControlBar *:after,

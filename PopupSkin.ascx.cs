@@ -32,7 +32,7 @@ namespace Christoc.Skins.HammerFlex
     /// 
     /// </summary>
     /// -----------------------------------------------------------------------------
-    public partial class Edit : SkinBase
+    public partial class PopupSkin : SkinBase
     {
                
     }
