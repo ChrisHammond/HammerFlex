@@ -21,7 +21,7 @@
     padding: 0 !important;
 }
 
-a.btn, a.btn:visited {
+a.btn-info, a.btn-info:visited,a.btn-primary, a.btn-primary:visited {
     color: #fff;
 }
 
