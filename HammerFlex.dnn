@@ -1,0 +1,77 @@
+<dotnetnuke type="Package" version="5.0">
+  <packages>
+    <package name="Christoc.Skins.HammerFlex" type="Skin" version="00.00.03">
+      <friendlyName>HammerFlex</friendlyName>
+      <description>A responsive DNN skin.</description>
+      <owner>
+        <name>Chris Hammond</name>
+        <organization>Christoc.com</organization>
+        <url>http://www.christoc.com</url>
+        <email>skins@christoc.com</email>
+      </owner>
+      <license src="license.txt"></license>
+      <releaseNotes src="releasenotes.txt"></releaseNotes>
+      <dependencies>
+        <dependency type="CoreVersion">07.01.00</dependency>
+      </dependencies>
+      <components>
+        <component type="ResourceFile">
+          <resourceFiles>
+            <basePath>portals/_default/skins/HammerFlex</basePath>
+            <resourceFile>
+              <name>Resources.zip</name>
+            </resourceFile>
+          </resourceFiles>
+        </component>
+        <component type="Assembly">
+          <assemblies>
+            <basePath>bin</basePath>
+            <assembly>
+              <name>HammerFlex.dll</name>
+            </assembly>
+          </assemblies>
+        </component>
+        <component type="Skin">
+          <skinFiles>
+            <skinName>HammerFlex</skinName>
+            <basePath />
+            <skinFile>
+              <name>Home.ascx</name>
+            </skinFile>
+            <skinFile>
+              <name>Edit.ascx</name>
+            </skinFile>
+          </skinFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Christoc.Containers.HammerFlex" type="Container" version="00.00.03">
+      <friendlyName>HammerFlex</friendlyName>
+      <description>Containers for the HammerFlex Skin package.</description>
+      <owner>
+        <name>Chris Hammond</name>
+        <organization>Christoc.com</organization>
+        <url>http://www.christoc.com</url>
+        <email>skins@christoc.com</email>
+      </owner>
+      <license src="license.txt"></license>
+      <releaseNotes src="releasenotes.txt"></releaseNotes>
+      <dependencies>
+        <dependency type="CoreVersion">07.01.00</dependency>
+      </dependencies>
+      <components>
+        <component type="Container">
+          <containerFiles>
+            <containerName>HammerFlex</containerName>
+            <containerFile>
+              <name>Main.ascx</name>
+            </containerFile>
+            <containerFile>
+              <name>Blank.ascx</name>
+            </containerFile>
+          </containerFiles>
+        </component>
+      </components>
+    </package>
+  </packages>
+</dotnetnuke>
