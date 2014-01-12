@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("HammerFlex")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A bootstrap enabled skin for DotNetNuke")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("HammerFlex")]
-[assembly: AssemblyCopyright("Copyright © 2014")]
+[assembly: AssemblyCopyright("Christoc.com Copyright © 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -30,5 +30,5 @@ using System.Runtime.InteropServices;
 //
 // You can specify all the values or you can default the Revision and Build Numbers 
 // by using the '*' as shown below:
-[assembly: AssemblyVersion("00.00.03.*")]
-[assembly: AssemblyFileVersion("00.00.03.*")]
+[assembly: AssemblyVersion("00.01.00.*")]
+[assembly: AssemblyFileVersion("00.01.00.*")]

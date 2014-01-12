@@ -21,7 +21,7 @@
   <div>
 	<p>Bootstrap files from http://getbootstrap.com/ under Apache License v2.0</p>
 	<p>Bootstrap style from http://bootswatch.com/cerulean/ under Apache License v2.0</p>
-	<p>BluImp Gallery from https://github.com/blueimp/Bootstrap-Image-Gallery under MIT License</p>
+	<p>BlueImp Gallery from https://github.com/blueimp/Bootstrap-Image-Gallery under MIT License</p>
   </div>
 </div>
 

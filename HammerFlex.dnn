@@ -1,8 +1,8 @@
 <dotnetnuke type="Package" version="5.0">
   <packages>
-    <package name="Christoc.Skins.HammerFlex" type="Skin" version="00.00.03">
+    <package name="Christoc.Skins.HammerFlex" type="Skin" version="00.01.00">
       <friendlyName>HammerFlex</friendlyName>
-      <description>A responsive DNN skin.</description>
+      <description>A responsive DNN skin using Bootstrap 3.</description>
       <owner>
         <name>Chris Hammond</name>
         <organization>Christoc.com</organization>
@@ -41,11 +41,14 @@
             <skinFile>
               <name>Edit.ascx</name>
             </skinFile>
+            <skinFile>
+              <name>PopupSkin.ascx</name>
+            </skinFile>
           </skinFiles>
         </component>
       </components>
     </package>
-    <package name="Christoc.Containers.HammerFlex" type="Container" version="00.00.03">
+    <package name="Christoc.Containers.HammerFlex" type="Container" version="00.01.00">
       <friendlyName>HammerFlex</friendlyName>
       <description>Containers for the HammerFlex Skin package.</description>
       <owner>

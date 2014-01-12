@@ -1,23 +1,13 @@
 ﻿<h3>HammerFlex</h3>
-<p class="Contributor">
 	Christoc.com <br />
-	<a href="mailto:modules@christoc.com">modules@christoc.com</a><br />
+	<a href="mailto:skins@christoc.com">skins@christoc.com</a><br />
 	<a href=http://www.christoc.com>http://www.christoc.com</a><br />
-</p>
 <hr/>
-<div class="License">
 	<h3>About the HammerFlex</h3>
-	<p class="Owner">
-		<b>Version CHANGEME</b><br /><br />
-	</p>
-	<p>Description about version.</p>
-	
+	<strong>Version 00.01.00</strong><br />
+	Initial release of the skin using Bootstrap 3 and DNN 7.1	
 	<h4>Bug Fixes</h4>
 	<ul>
-			<li>List</li>
-			<li>of</li>
-			<li>bug</li>
-			<li>fixes</li>
+			<li>None, first release</li>
 	</ul>
-	
 </div>
