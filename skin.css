@@ -13,6 +13,9 @@
     border-radius: 0 !important;
 }
 
+.carousel-inner > .active.left {
+    float:none;
+}
 .carousel-caption h1 {
     color: #fff;
 }
