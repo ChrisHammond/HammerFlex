@@ -178,17 +178,15 @@ a.btn-info, a.btn-info:visited,a.btn-primary, a.btn-primary:visited {
     }
 
 
+/* Content formatting */
+
+#Content,#TopContent{margin-top:10px;}
 
 
 /*
- * blueimp Gallery CSS 2.11.1
- * https://github.com/blueimp/Gallery
- *
- * Copyright 2013, Sebastian Tschan
- * https://blueimp.net
- *
- * Licensed under the MIT license:
- * http://www.opensource.org/licenses/MIT
+ * blueimp Gallery CSS 2.11.1 https://github.com/blueimp/Gallery
+ * Copyright 2013, Sebastian Tschan https://blueimp.net
+ * Licensed under the MIT license: http://www.opensource.org/licenses/MIT
  */
 
 .blueimp-gallery,
@@ -430,3 +428,5 @@ body:last-child .blueimp-gallery-playing > .play-pause {
     * + html .blueimp-gallery > .slides > .slide > .slide-content {
         position: relative;
     }
+
+
