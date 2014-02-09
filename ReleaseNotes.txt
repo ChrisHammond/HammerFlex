@@ -4,6 +4,12 @@
 	<a href=http://www.christoc.com>http://www.christoc.com</a><br />
 <hr/>
 	<h3>About the HammerFlex</h3>
+	<strong>Version 00.01.01</strong><br />
+	Initial release of the skin using Bootstrap 3 and DNN 7.1	
+	<h4>Bug Fixes</h4>
+	<ul>
+			<li>Fix image height bounce during carousel animation - Anthony Overkamp</li>
+	</ul>
 	<strong>Version 00.01.00</strong><br />
 	Initial release of the skin using Bootstrap 3 and DNN 7.1	
 	<h4>Bug Fixes</h4>

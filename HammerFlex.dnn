@@ -1,6 +1,6 @@
 <dotnetnuke type="Package" version="5.0">
   <packages>
-    <package name="Christoc.Skins.HammerFlex" type="Skin" version="00.01.00">
+    <package name="Christoc.Skins.HammerFlex" type="Skin" version="00.01.01">
       <friendlyName>HammerFlex</friendlyName>
       <description>A responsive DNN skin using Bootstrap 3.</description>
       <owner>
@@ -48,7 +48,7 @@
         </component>
       </components>
     </package>
-    <package name="Christoc.Containers.HammerFlex" type="Container" version="00.01.00">
+    <package name="Christoc.Containers.HammerFlex" type="Container" version="00.01.01">
       <friendlyName>HammerFlex</friendlyName>
       <description>Containers for the HammerFlex Skin package.</description>
       <owner>
