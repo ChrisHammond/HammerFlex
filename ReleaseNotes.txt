@@ -9,6 +9,7 @@
 	<h4>Bug Fixes</h4>
 	<ul>
 			<li>Fix image height bounce during carousel animation - Anthony Overkamp</li>
+			<li>Fixed load order of bootstrap.css to allow portal.css overrides - Chris Hammond</li>
 	</ul>
 	<strong>Version 00.01.00</strong><br />
 	Initial release of the skin using Bootstrap 3 and DNN 7.1	
