@@ -11,6 +11,7 @@
 			<li>Fix image height bounce during carousel animation - Anthony Overkamp</li>
 			<li>Fixed load order of bootstrap.css to allow portal.css overrides - Chris Hammond</li>
 			<li>Added 10px margin-top to #Content to add space between navbar/carousel and module content - Chris Hammond</li>
+			<li>Adjusted CSS to force carousel images to 100%</li>
 	</ul>
 	<strong>Version 00.01.00</strong><br />
 	Initial release of the skin using Bootstrap 3 and DNN 7.1	
