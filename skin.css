@@ -14,8 +14,9 @@
 }
 
 .carousel-inner > .active.left {
-    float:none;
+    float: none;
 }
+
 .carousel-caption h1 {
     color: #fff;
 }
@@ -24,7 +25,7 @@
     padding: 0 !important;
 }
 
-a.btn-info, a.btn-info:visited,a.btn-primary, a.btn-primary:visited {
+a.btn-info, a.btn-info:visited, a.btn-primary, a.btn-primary:visited {
     color: #fff;
 }
 
@@ -40,9 +41,14 @@ a.btn-info, a.btn-info:visited,a.btn-primary, a.btn-primary:visited {
     display: none;
 }
 /*override for dnnLabels in the bootstrap */
-.form-group .dnnLabel{text-align:left;width:auto;}
+.form-group .dnnLabel {
+    text-align: left;
+    width: auto;
+}
 
-.dnnLabel + span{white-space:normal;}
+.dnnLabel + span {
+    white-space: normal;
+}
 
 /* ADMIN */
 
@@ -180,7 +186,9 @@ a.btn-info, a.btn-info:visited,a.btn-primary, a.btn-primary:visited {
 
 /* Content formatting */
 
-#Content,#TopContent{margin-top:10px;}
+#Content, #TopContent {
+    margin-top: 10px;
+}
 
 
 /*
@@ -430,3 +438,10 @@ body:last-child .blueimp-gallery-playing > .play-pause {
     }
 
 
+
+/* fix for carousel for large resolution displays */
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    margin: 0 auto;
+    width: 100%; 
+}

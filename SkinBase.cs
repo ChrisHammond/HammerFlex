@@ -13,8 +13,6 @@
 
 using System;
 using DotNetNuke.Framework;
-using DotNetNuke.Web.Client.ClientResourceManagement;
-using DotNetNuke.Web.Client;
 
 namespace Christoc.Skins.HammerFlex
 {
