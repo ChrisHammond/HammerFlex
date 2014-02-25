@@ -30,11 +30,11 @@ a.btn-info, a.btn-info:visited, a.btn-primary, a.btn-primary:visited {
 }
 
 .searchBox {
-    padding-top: 12px;
+    padding: 15px 15px 0 15px;
+    width: 240px;
 }
-
-    .searchBox .SkinObject {
-        color: #fff;
+    .searchBox .searchText {
+        color: #000;float: right;
     }
 
 .searchSkinObjectPreview_group {

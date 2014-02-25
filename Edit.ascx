@@ -41,7 +41,7 @@
                     <ul class="dropdown-menu">
                         <li>
                             <div class="searchBox">
-                                <dnn:Search id="dnnSearch" runat="server" showsite="false" showweb="false" />
+                                <dnn:Search id="dnnSearch" runat="server" showsite="false" showweb="false" cssclass="btn btn-success btn-xs" />
                             </div>
                         </li>
                     </ul>
