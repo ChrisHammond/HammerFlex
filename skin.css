@@ -40,6 +40,12 @@ a.btn-info, a.btn-info:visited, a.btn-primary, a.btn-primary:visited {
 .searchSkinObjectPreview_group {
     display: none;
 }
+
+ul.dnnAdminTabNav {
+    height: 40px;
+    border-radius: 0 !important;
+}
+
 /*override for dnnLabels in the bootstrap */
 .form-group .dnnLabel {
     text-align: left;
@@ -445,3 +451,6 @@ body:last-child .blueimp-gallery-playing > .play-pause {
     margin: 0 auto;
     width: 100%; 
 }
+
+
+
