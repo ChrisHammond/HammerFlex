@@ -11,6 +11,7 @@
 	<ul>
 			<li>Fixed DNNTabs display - Chris Hammond</li>
 			<li>Added new Icons for notifications and messages to become red when a message or notification is available.</li>
+			<li>Styling the Search box in the nav menu</li>
 	</ul>
 	<strong>Version 00.01.01</strong><br />
 	Second release	
