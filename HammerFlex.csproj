@@ -92,6 +92,8 @@
     <Content Include="css\bootstrap.min.css" />
     <Content Include="Edit.ascx" />
     <Content Include="Edit.doctype.xml" />
+    <Content Include="i\icon_message_active.png" />
+    <Content Include="i\icon_notification_active.png" />
     <Content Include="PopupSkin.ascx" />
     <Content Include="Home.doctype.xml" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />

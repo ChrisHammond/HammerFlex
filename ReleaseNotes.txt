@@ -4,8 +4,16 @@
 	<a href=http://www.christoc.com>http://www.christoc.com</a><br />
 <hr/>
 	<h3>About the HammerFlex</h3>
+
+	<strong>Version 00.01.02</strong><br />
+	Third release of HammerFlex
+	<h4>Bug Fixes</h4>
+	<ul>
+			<li>Fixed DNNTabs display - Chris Hammond</li>
+			<li>Added new Icons for notifications and messages to become red when a message or notification is available.</li>
+	</ul>
 	<strong>Version 00.01.01</strong><br />
-	Initial release of the skin using Bootstrap 3 and DNN 7.1	
+	Second release	
 	<h4>Bug Fixes</h4>
 	<ul>
 			<li>Fix image height bounce during carousel animation - Anthony Overkamp</li>

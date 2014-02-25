@@ -162,6 +162,8 @@ ul.dnnAdminTabNav {
         text-align: center;
     }
 
+    
+
     .navbar-right .registerGroup .userProfileImg a {
         min-width: 50px;
         min-height: 50px;
@@ -184,11 +186,29 @@ ul.dnnAdminTabNav {
     .navbar-right .userMessages a span,
     .navbar-right .userNotifications a span {
         display: inline-block;
-        margin-top: 9px;
+        margin-top: 0;
         margin-right: 0;
         background-color: transparent;
     }
 
+    .navbar-right .userNotifications span,.navbar-right .userMessages span {
+        height: 100%;
+        display: block;
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        overflow: hidden;
+        font-size: 0;
+        text-indent: -9999px;
+        z-index: 999;
+    }
+    .navbar-right .userNotifications span {
+        background: url('i/icon_notification_active.png') no-repeat center center;
+    }
+    .navbar-right .userMessages span
+    {background: url('i/icon_message_active.png') no-repeat center center;}
+    
 
 /* Content formatting */
 
@@ -449,8 +469,5 @@ body:last-child .blueimp-gallery-playing > .play-pause {
 
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
     margin: 0 auto;
-    width: 100%; 
+    width: 100%;
 }
-
-
-
