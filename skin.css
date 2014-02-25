@@ -46,6 +46,18 @@ ul.dnnAdminTabNav {
     border-radius: 0 !important;
 }
 
+
+	/* styling for the Edit Profile and My Account links in User Profiles */
+	.dnnActions {
+		display:inline-block;
+	}
+	.dnnActions li {
+		margin-right:5px;
+		list-style:none;
+		float:left;
+	}
+
+
 /*override for dnnLabels in the bootstrap */
 .form-group .dnnLabel {
     text-align: left;

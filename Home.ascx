@@ -81,7 +81,10 @@
         <div id="LeftPane" runat="server" class="col-md-3" />
         <div id="ContentPaneRight" runat="server" class="col-md-9" />
     </div>
-
+    <div id="UserProfile" class="row">
+        <div id="UserProfileLeft" runat="server" class="col-md-2" />
+        <div id="UserProfileContent" runat="server" class="col-md-10" />
+    </div>
     <div id="BottomContent" class="row">
 
         <div id="BottomPane" runat="server" class="col-md-12" />
