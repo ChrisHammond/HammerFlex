@@ -483,3 +483,7 @@ body:last-child .blueimp-gallery-playing > .play-pause {
     margin: 0 auto;
     width: 100%;
 }
+/* fix for images that are too wide for panes */
+.container img{
+    width:100%;
+}
