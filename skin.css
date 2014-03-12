@@ -475,8 +475,6 @@ body:last-child .blueimp-gallery-playing > .play-pause {
         position: relative;
     }
 
-
-
 /* fix for carousel for large resolution displays */
 
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
