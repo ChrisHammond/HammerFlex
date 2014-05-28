@@ -80,6 +80,20 @@ ul.dnnAdminTabNav {
     box-sizing: content-box !important; /* Opera/IE 8+ */
 }
 
+
+.navbar-default .navbar-nav > li > div > ul > li > a, .navbar-default .LoginLink {
+color: #ffffff;
+}
+
+.navbar-default .navbar-nav > li > div > a:hover,
+.navbar-default .navbar-nav > li > div > a:focus,
+.navbar-default .navbar-nav > li > div > ul > li > a:hover,
+.navbar-default .navbar-nav > li > div > ul > li > a:focus {
+  color: #ffffff;
+  background-color: #178acc;
+}
+
+
 /*------------------------------------------------*/
 /* LOGIN */
 /*------------------------------------------------*/
