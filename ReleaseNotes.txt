@@ -5,36 +5,36 @@
 <hr/>
 	<h3>About the HammerFlex</h3>
 
-		<strong>Version 00.01.03</strong><br />
+		<h4>Version 00.01.03</h4><br />
 	Fourth release of HammerFlex
-	<h4>Bug Fixes</h4>
+	<h5>Bug Fixes</h5>
 	<ul>
 			<li>Updates to note that Host/Extension installation is required, Admin/Extensions will not work. - Chris Hammond</li>
 			<li>Updated to Bootstrap 3.1.1</li>
 			<li>Updated Cerulean CSS for Bootstrap 3.1.1</li>
 	</ul>
 
-	<strong>Version 00.01.02</strong><br />
+	<h4>Version 00.01.02</h4><br />
 	Third release of HammerFlex
-	<h4>Bug Fixes</h4>
+	<h5>Bug Fixes</h5>
 	<ul>
 			<li>Fixed DNNTabs display - Chris Hammond</li>
 			<li>Added new Icons for notifications and messages to become red when a message or notification is available. - Chris Hammond</li>
 			<li>Styling the Search box in the nav menu - Chris Hammond</li>
 			<li>Added new row (2 panes) in Home.ascx for User Profile pages. UserProfileLeft (col-md-2) and UserProfileContent (col-md-10) - Chris Hammond</li>
 	</ul>
-	<strong>Version 00.01.01</strong><br />
+	<h4>Version 00.01.01</h4><br />
 	Second release	
-	<h4>Bug Fixes</h4>
+	<h5>Bug Fixes</h5>
 	<ul>
 			<li>Fix image height bounce during carousel animation - Anthony Overkamp</li>
 			<li>Fixed load order of bootstrap.css to allow portal.css overrides - Chris Hammond</li>
 			<li>Added 10px margin-top to #Content to add space between navbar/carousel and module content - Chris Hammond</li>
 			<li>Adjusted CSS to force carousel images to 100% - Chris Hammond</li>
 	</ul>
-	<strong>Version 00.01.00</strong><br />
+	<h4>Version 00.01.00</h4><br />
 	Initial release of the skin using Bootstrap 3 and DNN 7.1	
-	<h4>Bug Fixes</h4>
+	<h5>Bug Fixes</h5>
 	<ul>
 			<li>None, first release</li>
 	</ul>

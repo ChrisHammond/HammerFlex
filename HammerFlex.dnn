@@ -67,6 +67,7 @@
         <component type="Container">
           <containerFiles>
             <containerName>HammerFlex</containerName>
+            <basepath/>
             <containerFile>
               <name>Main.ascx</name>
             </containerFile>
