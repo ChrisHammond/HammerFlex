@@ -2,7 +2,7 @@
   <packages>
     <package name="Christoc.Skins.HammerFlex" type="Skin" version="00.01.03">
       <friendlyName>HammerFlex</friendlyName>
-      <description>A responsive DNN skin using Bootstrap 3.</description>
+      <description>A responsive DNN skin using Bootstrap 3. Requires installation via the Host/Extensions page.</description>
       <owner>
         <name>Chris Hammond</name>
         <organization>Christoc.com</organization>

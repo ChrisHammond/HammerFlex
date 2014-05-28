@@ -5,6 +5,15 @@
 <hr/>
 	<h3>About the HammerFlex</h3>
 
+		<strong>Version 00.01.03</strong><br />
+	Fourth release of HammerFlex
+	<h4>Bug Fixes</h4>
+	<ul>
+			<li>Updates to note that Host/Extension installation is required, Admin/Extensions will not work. - Chris Hammond</li>
+			<li>Updated to Bootstrap 3.1.1</li>
+			<li>Updated Cerulean CSS for Bootstrap 3.1.1</li>
+	</ul>
+
 	<strong>Version 00.01.02</strong><br />
 	Third release of HammerFlex
 	<h4>Bug Fixes</h4>
