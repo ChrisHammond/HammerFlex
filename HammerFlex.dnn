@@ -9,6 +9,7 @@
         <url>http://www.christoc.com</url>
         <email>skins@christoc.com</email>
       </owner>
+      <azureCompatible>true</azureCompatible>
       <license src="license.txt"></license>
       <releaseNotes src="releasenotes.txt"></releaseNotes>
       <dependencies>
