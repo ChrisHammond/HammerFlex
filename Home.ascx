@@ -102,7 +102,7 @@
                 <dnn:terms id="dnnTerms" runat="server" />
                 <dnn:privacy id="dnnPrivacy" runat="server" />
             </div>
-            <a href="http://www.christoc.com/projects/hammerflex">Design: HammerFlex DNN Skin by Christoc.com</a>
+            <a href="http://cjh.am/1mGBQby">Design: HammerFlex DNN Skin by Christoc.com</a>
         </div>
     </div>
 </div>
