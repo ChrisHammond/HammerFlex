@@ -3,12 +3,15 @@ HammerFlex
 
 Description
 -----------
-Another free open source skin for DNN (DotNetNuke) using Bootstrap 3/ 
+Another free open source skin for DNN (DotNetNuke) using Bootstrap 3. 
 
 Installation and Customization
 ------------------------------
 You install this DNN Skin like any other DNN extension from the Host/Extensions page (do not install via Admin/Extensions), for production use download the INSTALL package from the releases page. For development you can either Fork the project here on GitHub, or you can download the source package. Install the SOURCE package into your development environment. The skin, as are all my modules, is designed for use in a local development environment at http://dnndev.me/ 
 
+* Introduction Blog Post on the Skin http://www.chrishammond.com/blog/itemid/2644/introducing-hammerflex-a-new-open-source-skin-for.aspx
+* Blog discussing the Layouts available in the Skin http://www.chrishammond.com/blog/itemid/2647/the-layouts-of-the-hammerflex-open-source-skin-for.aspx
+* How to use the Carousel in HammerFlex http://www.chrishammond.com/blog/itemid/2645/using-the-bootstrap-carousel-in-the-dnn-hammerflex.aspx
 
 Development and Source Code Notes
 ---------------------------------
