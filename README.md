@@ -18,7 +18,7 @@ If you want to customize this skin, using the source code, here are the steps th
 2. Download the SOURCE package of the skin from GitHub
 3. Install the SOURCE package of the skin from the Host/Extensions page
 4. Open the CSPROJ file for the skin project, located in /portals/_default/skins/hammerflex/
-5. To repackage the skin, build in RELEASE mode.
+5. To repackage the skin, build in RELEASE mode. (if you want to change version numbers, change the numbers in AssemblyInfo.cs and hammerflex.dnn)
 6. You can find the new Packages for the Skin in the INSTALL folder /portals/_default/skins/hammerflex/install
 
 If you don't want/need to change the source code itself, you could simply override the CSS for the skin by modifying your Portal.CSS file.
