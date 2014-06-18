@@ -21,5 +21,5 @@ If you want to customize this skin, using the source code, here are the steps th
 5) To repackage the skin, build in RELEASE mode.
 6) You can find the new Packages for the Skin in the INSTALL folder /portals/_default/skins/hammerflex/install
 
-If you don't want/need to change the source code itself, you could simply override the CSS for the skin,
+If you don't want/need to change the source code itself, you could simply override the CSS for the skin by modifying your Portal.CSS file.
 
