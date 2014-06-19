@@ -5,11 +5,11 @@
 <hr/>
 	<h3>About the HammerFlex</h3>
 
-		<h4>Version 00.01.04</h4><br />
+	<h4>Version 00.01.05</h4><br />
 	Fifth release of HammerFlex
 	<h5>Bug Fixes</h5>
 	<ul>
-			<li>TBD. - Chris Hammond</li>
+			<li>Fix for carousel pane causing scrolling in IE and FF - Aaron D.</li>
 	</ul>
 
 	<h4>Version 00.01.04</h4><br />

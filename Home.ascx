@@ -59,7 +59,7 @@
     </div>
 </div>
 
-<div id="CarouselPane" runat="server" class="row" />
+<div id="CarouselPane" runat="server" class="carousel slide" />
 
 <div class="container">
     <!--/Logo-->
