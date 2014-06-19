@@ -19,35 +19,18 @@
     </ItemGroup>
     <Copy SourceFiles="@(ContainerInclude)" DestinationFolder="$(MSBuildProjectDirectory)\..\..\containers\$(DNNFileName)\" />
 
-    <ItemGroup>
-      <DefaultExclude Include="**\.svn\**" />
-      <DefaultExclude Include="**\bin\**" />
-      <DefaultExclude Include="**\obj\**" />
-      <DefaultExclude Include="**\Release\**" />
-      <DefaultExclude Include="**\Debug\**" />
-      <DefaultExclude Include="**\Test\**" />
-      <DefaultExclude Include="**\TestResults\**" />
-      <DefaultExclude Include="**\doc\**" />
-      <DefaultExclude Include="**\www\**" />
-      <DefaultExclude Include="**\*.user" />
-      <DefaultExclude Include="**\*.suo" />
-      <DefaultExclude Include="**\*.zip" />
-      <DefaultExclude Include="**\*.txt" />
-      <DefaultExclude Include="**\*ReSharper.*\**" />
-      <DefaultExclude Include="**\*min.*\**" />
-    </ItemGroup>
-
+    
     <ItemGroup>
       <InstallInclude Include="**\*.ascx" Exclude="**\Containers\*.ascx;**\MobileHome.ascx" />
       <InstallInclude Include="**\*.asmx" />
       <InstallInclude Include="**\*.css" Exclude="**\min\**" />
       <InstallInclude Include="**\*.html" />
       <InstallInclude Include="**\*.htm" />
-      <InstallInclude Include="**\*.xml" Exclude="**\obj\**;**\_ReSharper*\**;**\bin\**;**\packages\**" />
+      <InstallInclude Include="**\*.xml" Exclude="**\obj\**;**\_ReSharper*\**;**\bin\**;**\packages\**;**\.git\**" />
       <InstallInclude Include="**\*.resx" />
       <InstallInclude Include="**\*.aspx" />
       <InstallInclude Include="**\*.js" />
-      <InstallInclude Include="**\*.txt"  Exclude="**\obj\**;**\_ReSharper*\**;" />
+      <InstallInclude Include="**\*.txt"  Exclude="**\obj\**;**\_ReSharper*\**;**\.git\**" />
       <InstallInclude Include="**\i\*.*" />
       <InstallInclude Include="**\img\*.*" />
       <InstallInclude Include="**\fonts\*.*" />
@@ -59,15 +42,17 @@
       <SourceInclude Include="**\*.ascx" />
       <SourceInclude Include="**\*.asmx" />
       <SourceInclude Include="**\*.css" />
+      <SourceInclude Include="**\*.exe" />
+      <SourceInclude Include="**\*.config" />
 
       <SourceInclude Include="**\*.xsl" />
       <SourceInclude Include="**\*.html" />
       <SourceInclude Include="**\*.htm" />
       <SourceInclude Include="**\*.resx" />
-      <SourceInclude Include="**\*.xml" Exclude="**\obj\**;**\_ReSharper*\**;**\bin\**;" />
+      <SourceInclude Include="**\*.xml" Exclude="**\obj\**;**\_ReSharper*\**;**\bin\**;**\.git\**;" />
       <SourceInclude Include="**\*.aspx" />
       <SourceInclude Include="**\*.js" />
-      <SourceInclude Include="**\*.txt" Exclude="**\obj\**;**\_ReSharper*\**;" />
+      <SourceInclude Include="**\*.txt" Exclude="**\obj\**;**\_ReSharper*\**;**\.git\**;" />
       <SourceInclude Include="**\i\*.*" />
       <SourceInclude Include="**\img\*.*" />
       <SourceInclude Include="**\fonts\*.*" />

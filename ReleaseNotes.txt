@@ -12,7 +12,17 @@
 			<li>TBD. - Chris Hammond</li>
 	</ul>
 
-		<h4>Version 00.01.03</h4><br />
+	<h4>Version 00.01.04</h4><br />
+	Fifth release of HammerFlex
+	<h5>Bug Fixes</h5>
+	<ul>
+			<li>Updates to the SkinPackage.targets file to include Nuget files - Chris Hammond</li>
+			<li>Updates to SkinPackage.targets to exclude .git folder - Chris Hammond</li>
+			<li>Removed "Exclude" section from SkinPackage.targets that wasn't being used </li>
+	</ul>
+
+
+	<h4>Version 00.01.03</h4><br />
 	Fourth release of HammerFlex
 	<h5>Bug Fixes</h5>
 	<ul>
