@@ -33,8 +33,10 @@ a.btn-info, a.btn-info:visited, a.btn-primary, a.btn-primary:visited {
     padding: 15px 15px 0 15px;
     width: 240px;
 }
+
     .searchBox .searchText {
-        color: #000;float: right;
+        color: #000;
+        float: right;
     }
 
 .searchSkinObjectPreview_group {
@@ -47,15 +49,16 @@ ul.dnnAdminTabNav {
 }
 
 
-	/* styling for the Edit Profile and My Account links in User Profiles */
-	.dnnActions {
-		display:inline-block;
-	}
-	.dnnActions li {
-		margin-right:5px;
-		list-style:none;
-		float:left;
-	}
+/* styling for the Edit Profile and My Account links in User Profiles */
+.dnnActions {
+    display: inline-block;
+}
+
+    .dnnActions li {
+        margin-right: 5px;
+        list-style: none;
+        float: left;
+    }
 
 
 /*override for dnnLabels in the bootstrap */
@@ -82,16 +85,16 @@ ul.dnnAdminTabNav {
 
 
 .navbar-default .navbar-nav > li > div > ul > li > a, .navbar-default .LoginLink {
-color: #ffffff;
+    color: #ffffff;
 }
 
-.navbar-default .navbar-nav > li > div > a:hover,
-.navbar-default .navbar-nav > li > div > a:focus,
-.navbar-default .navbar-nav > li > div > ul > li > a:hover,
-.navbar-default .navbar-nav > li > div > ul > li > a:focus {
-  color: #ffffff;
-  background-color: #178acc;
-}
+    .navbar-default .navbar-nav > li > div > a:hover,
+    .navbar-default .navbar-nav > li > div > a:focus,
+    .navbar-default .navbar-nav > li > div > ul > li > a:hover,
+    .navbar-default .navbar-nav > li > div > ul > li > a:focus {
+        color: #ffffff;
+        background-color: #178acc;
+    }
 
 
 /*------------------------------------------------*/
@@ -188,7 +191,7 @@ color: #ffffff;
         text-align: center;
     }
 
-    
+
 
     .navbar-right .registerGroup .userProfileImg a {
         min-width: 50px;
@@ -217,7 +220,7 @@ color: #ffffff;
         background-color: transparent;
     }
 
-    .navbar-right .userNotifications span,.navbar-right .userMessages span {
+    .navbar-right .userNotifications span, .navbar-right .userMessages span {
         height: 100%;
         display: block;
         position: absolute;
@@ -229,12 +232,15 @@ color: #ffffff;
         text-indent: -9999px;
         z-index: 999;
     }
+
     .navbar-right .userNotifications span {
         background: url('i/icon_notification_active.png') no-repeat center center;
     }
-    .navbar-right .userMessages span
-    {background: url('i/icon_message_active.png') no-repeat center center;}
-    
+
+    .navbar-right .userMessages span {
+        background: url('i/icon_message_active.png') no-repeat center center;
+    }
+
 
 /* Content formatting */
 
@@ -499,6 +505,6 @@ body:last-child .blueimp-gallery-playing > .play-pause {
 
 /* fix for DNN dropdown lists being cut off*/
 
-.dnnDropDownList .selected-item a, .dnnDropDownList .selected-item a:link, .dnnDropDownList .selected-item a:visited, .dnnDropDownList .selected-item a:hover, .dnnDropDownList .selected-item a:active, .dnnDropDownList .selected-item a, .dnnDropDownList .selected-item a:link, .dnnDropDownList .selected-item a:visited, .dnnDropDownList .selected-item a:hover, .dnnDropDownList .selected-item a:active {
-    height: 35px;
+.dnnDropDownList .selected-item, .dnnDropDownList .selected-item a  {
+    height: 35px !important;
 }
