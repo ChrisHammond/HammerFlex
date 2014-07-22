@@ -10,6 +10,7 @@
 	<h5>Bug Fixes</h5>
 	<ul>
 			<li>Fix for carousel pane causing scrolling in IE and FF - Aaron D.</li>
+			<li>DNN Dropdown list styling fix for lists without an item selected (site settings) </li>
 	</ul>
 
 	<h4>Version 00.01.04</h4><br />

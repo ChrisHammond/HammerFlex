@@ -495,3 +495,10 @@ body:last-child .blueimp-gallery-playing > .play-pause {
     margin: 0 auto;
     width: 100%;
 }
+
+
+/* fix for DNN dropdown lists being cut off*/
+
+.dnnDropDownList .selected-item a, .dnnDropDownList .selected-item a:link, .dnnDropDownList .selected-item a:visited, .dnnDropDownList .selected-item a:hover, .dnnDropDownList .selected-item a:active, .dnnDropDownList .selected-item a, .dnnDropDownList .selected-item a:link, .dnnDropDownList .selected-item a:visited, .dnnDropDownList .selected-item a:hover, .dnnDropDownList .selected-item a:active {
+    height: 35px;
+}
