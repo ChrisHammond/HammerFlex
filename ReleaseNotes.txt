@@ -9,7 +9,8 @@
 	Seventh release of HammerFlex
 	<h5>Bug Fixes</h5>
 	<ul>
-			<li>TBD</li>			
+			<li>Upgraded to Bootstrap 3.2.0 (http://getbootstrap.com)</li>			
+			<li>Upgraded to Bootstrap Image Gallery 3.1.1 (https://github.com/blueimp/Bootstrap-Image-Gallery)</li>			
 	</ul>
 
 	<h4>Version 00.01.05</h4><br />

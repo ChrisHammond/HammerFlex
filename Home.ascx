@@ -15,9 +15,8 @@
 
 <dnn:JQUERY ID="dnnjQuery" runat="server" jQueryHoverIntent="true" />
 <dnn:DnnJsInclude ID="bootstrapJS" runat="server" FilePath="js/bootstrap.min.js" PathNameAlias="SkinPath" />
-<dnn:DnnCssInclude ID="bootStrapCSS" runat="server" FilePath="css/bootstrap.css" PathNameAlias="SkinPath" Priority="14" />
+<dnn:DnnCssInclude ID="bootStrapCSS" runat="server" FilePath="css/bootstrap.min.css" PathNameAlias="SkinPath" Priority="14" />
 <dnn:DnnJsInclude ID="bluImpJS" runat="server" FilePath="js/jquery.blueimp-gallery.min.js" PathNameAlias="SkinPath" />
-
 
 <div class="navbar navbar-default" role="navigation">
     <div class="container">
@@ -108,7 +107,7 @@
 </div>
 
 <!-- gallery and carousel controls, hidden by default -->
-<div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+<div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls" data-use-bootstrap-modal="false">
     <div class="slides"></div>
     <h3 class="title"></h3>
     <a class="prev">‹</a>
