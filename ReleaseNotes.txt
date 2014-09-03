@@ -5,6 +5,12 @@
 <hr/>
 	<h3>About the HammerFlex</h3>
 
+	<h4>Version 00.01.07</h4><br />
+	Eighth release of HammerFlex
+	<h5>Bug Fixes</h5>
+	<ul>
+			<li>Fixed CSS reference for Edit.ascx, was using wrong CSS file.</li>
+	</ul>
 	<h4>Version 00.01.06</h4><br />
 	Seventh release of HammerFlex
 	<h5>Bug Fixes</h5>
