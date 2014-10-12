@@ -508,3 +508,7 @@ body:last-child .blueimp-gallery-playing > .play-pause {
 .dnnDropDownList .selected-item, .dnnDropDownList .selected-item a  {
     height: 35px !important;
 }
+
+
+/* fix for coloring on DNN Check boxes */
+.dnnCheckbox .mark{ background: none;}

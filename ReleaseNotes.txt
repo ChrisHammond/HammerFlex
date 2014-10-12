@@ -10,6 +10,7 @@
 	<h5>Bug Fixes</h5>
 	<ul>
 			<li>Fixed CSS reference for Edit.ascx, was using wrong CSS file.</li>
+			<li>Fixed .dnnCheckbox .mark for bootstrap background.</li>
 	</ul>
 	<h4>Version 00.01.06</h4><br />
 	Seventh release of HammerFlex
