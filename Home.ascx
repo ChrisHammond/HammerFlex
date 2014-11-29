@@ -58,7 +58,7 @@
     </div>
 </div>
 
-<div id="CarouselPane" runat="server" class="carousel slide" />
+<div id="CarouselPane" runat="server" class="carousel slide" containertype="G" containername="HammerFlex" containersrc="Blank.ascx" />
 
 <div class="container">
     <!--/Logo-->

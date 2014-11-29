@@ -10,6 +10,7 @@
 	<h5>Bug Fixes</h5>
 	<ul>
 			<li>Upgraded to Bootstrap 3.3.1 (http://getbootstrap.com)</li>
+			<li>Set default container in Carousel pane to be Blank.ascx</li>
 	</ul>
 	<h4>Version 00.01.07</h4><br />
 	Eighth release of HammerFlex
