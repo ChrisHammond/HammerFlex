@@ -9,7 +9,8 @@
 	Ninth release of HammerFlex
 	<h5>Bug Fixes</h5>
 	<ul>
-			<li>None yet</li>
+			<li>Updated load priority for bootstrap.js to fix problems with DNN Dropdown lists.</li>
+			<li>Updated copyrights for 2015</li>
 	</ul>
 
 	<h4>Version 00.01.08</h4><br />

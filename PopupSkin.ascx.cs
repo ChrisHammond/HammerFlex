@@ -1,5 +1,5 @@
 ﻿/*
-' Copyright (c) 2014  Christoc.com
+' Copyright (c) 2014-2015  Christoc.com
 '  All rights reserved.
 ' 
 ' THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
