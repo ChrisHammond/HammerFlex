@@ -14,7 +14,6 @@ $(document).ready(function () {
             // - look for other li's (menu items at the same level)
             // - hide any lower down ul's (submenus) they may have.  Use find else you leave traces of children's child menus.
             $(this).parentsUntil('ul.nav', 'li').siblings().find('ul').hide();
-            //$('.nav > li.dropdown > ul.dropdown-menu:visible').not($(this).siblings()).hide("fast");
             return false;
         }
     });
