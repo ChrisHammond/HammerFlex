@@ -5,6 +5,12 @@
 <hr/>
 	<h3>About the HammerFlex</h3>
 
+	<h4>Version 00.01.11</h4><br />
+	Eleventh release of HammerFlex
+	<h5>Bug Fixes</h5>
+	<ul>
+			<li>Support sub menus</li>
+	</ul>
 	<h4>Version 00.01.10</h4><br />
 	Ninth release of HammerFlex
 	<h5>Bug Fixes</h5>
