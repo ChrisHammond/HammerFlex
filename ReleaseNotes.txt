@@ -10,6 +10,7 @@
 	<h5>Bug Fixes</h5>
 	<ul>
 			<li>Updated to Bootstrap V3.3.4.</li>
+			<li>Fix for radiobutton background colors.</li>
 	</ul>
 
 
