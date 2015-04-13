@@ -510,5 +510,5 @@ body:last-child .blueimp-gallery-playing > .play-pause {
 }
 
 
-/* fix for coloring on DNN Check boxes */
-.dnnCheckbox .mark{ background: none;}
+/* fix for coloring on DNN Check boxes and radio */
+.dnnCheckbox .mark, .dnnRadiobutton .mark{ background: none;}

@@ -5,14 +5,22 @@
 <hr/>
 	<h3>About the HammerFlex</h3>
 
+	<h4>Version 00.01.11</h4><br />
+	Twelfth release of HammerFlex
+	<h5>Bug Fixes</h5>
+	<ul>
+			<li>Updated to Bootstrap V3.3.4.</li>
+	</ul>
+
+
 	<h4>Version 00.01.10</h4><br />
-	Ninth release of HammerFlex
+	Eleventh release of HammerFlex
 	<h5>Bug Fixes</h5>
 	<ul>
 			<li>Updated to Bootstrap V3.3.2.</li>
 	</ul>
 	<h4>Version 00.01.09</h4><br />
-	Ninth release of HammerFlex
+	Tenth release of HammerFlex
 	<h5>Bug Fixes</h5>
 	<ul>
 			<li>Updated load priority for bootstrap.js to fix problems with DNN Dropdown lists.</li>
