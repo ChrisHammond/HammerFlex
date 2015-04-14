@@ -71,6 +71,14 @@ ul.dnnAdminTabNav {
     white-space: normal;
 }
 
+/* Addition to bootstrap menu styles */
+/* Displace second and deeper level menus right from their parent.  */
+.dropdown-menu .dropdown-menu
+{
+  margin-left:160px;
+}
+
+
 /* ADMIN */
 
 #ControlBar, #ControlBar:before, #ControlBar:after, #ControlBar *:before, #ControlBar *:after,

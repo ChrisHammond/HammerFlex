@@ -3427,14 +3427,6 @@ tbody.collapse.in {
   -webkit-background-clip: padding-box;
           background-clip: padding-box;
 }
-
-/* Displace second and deeper level menus right from their parent.  */
-.dropdown-menu .dropdown-menu
-{
-  margin-left:160px;
-}
-
-
 .dropdown-menu.pull-right {
   right: 0;
   left: auto;
