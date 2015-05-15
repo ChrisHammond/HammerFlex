@@ -5,6 +5,14 @@
 <hr/>
 	<h3>About the HammerFlex</h3>
 
+	<h4>Version 00.01.12</h4><br />
+	Thirteenth release of HammerFlex
+	<h5>Bug Fixes</h5>
+	<ul>
+			<li>SubMenu Fix -Richard Howells</li>
+	</ul>
+
+
 	<h4>Version 00.01.11</h4><br />
 	Twelfth release of HammerFlex
 	<h5>Bug Fixes</h5>
@@ -12,6 +20,7 @@
 			<li>Updated to Bootstrap V3.3.4.</li>
 			<li>Fix for radiobutton background colors.</li>
 	</ul>
+
 
 
 	<h4>Version 00.01.10</h4><br />
