@@ -24,5 +24,10 @@ If you want to customize this skin, using the source code, here are the steps th
 5. To repackage the skin, build in RELEASE mode. (if you want to change version numbers, change the numbers in AssemblyInfo.cs and hammerflex.dnn)
 6. You can find the new Packages for the Skin in the INSTALL folder /portals/_default/skins/hammerflex/install
 
+
+Visual Studio Template
+---------------------------------
+An early version of this skin is the base for the C# Theme Template found in Christoc's DotNetNuke Module and Theme Development template. You can find them available for free in the DNN Store: http://cjh.am/dnntemplates
+
 If you don't want/need to change the source code itself, you could simply override the CSS for the skin by modifying your Portal.CSS file.
 

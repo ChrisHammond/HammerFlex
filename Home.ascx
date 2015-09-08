@@ -16,7 +16,7 @@
 <dnn:JQUERY ID="dnnjQuery" runat="server" jQueryHoverIntent="true" />
 <dnn:DnnJsInclude ID="bootstrapJS" runat="server" FilePath="js/bootstrap.min.js" PathNameAlias="SkinPath" Priority="10" />
 <dnn:DnnCssInclude ID="bootStrapCSS" runat="server" FilePath="css/bootstrap.min.css" PathNameAlias="SkinPath" Priority="14" />
-<dnn:DnnJsInclude ID="bluImpJS" runat="server" FilePath="js/jquery.blueimp-gallery.min.js" PathNameAlias="SkinPath" />
+
 
 <div class="navbar navbar-default" role="navigation">
     <div class="container">
@@ -116,3 +116,9 @@
     <a class="play-pause"></a>
     <ol class="indicator"></ol>
 </div>
+
+
+
+<dnn:DnnJsInclude ID="bluImpJS" runat="server" FilePath="js/jquery.blueimp-gallery.min.js" PathNameAlias="SkinPath" />
+
+

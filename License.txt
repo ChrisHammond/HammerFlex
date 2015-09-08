@@ -2,7 +2,7 @@
    <h3>License</h3>
    <p class="Owner">
        <a href="http://www.christoc.com">Christoc.com</a></br>
-       Copyright (c) 2014</br>
+       Copyright (c) 2015</br>
    </p>
   <p>
       Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 

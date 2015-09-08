@@ -10,6 +10,7 @@
 	<h5>Bug Fixes</h5>
 	<ul>
 			<li>SubMenu Fix -Richard Howells</li>
+			<li>Bootstrap V3.3.5</li>
 	</ul>
 
 
