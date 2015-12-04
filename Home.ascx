@@ -16,6 +16,8 @@
 <dnn:JQUERY ID="dnnjQuery" runat="server" jQueryHoverIntent="true" />
 <dnn:DnnJsInclude ID="bootstrapJS" runat="server" FilePath="js/bootstrap.min.js" PathNameAlias="SkinPath" Priority="10" />
 <dnn:DnnCssInclude ID="bootStrapCSS" runat="server" FilePath="css/bootstrap.min.css" PathNameAlias="SkinPath" Priority="14" />
+<dnn:DnnCssInclude ID="blueImpCss" runat="server" FilePath="css/bootstrap-image-gallery.min.css" PathNameAlias="SkinPath" />
+
 
 
 <div class="navbar navbar-default" role="navigation">
@@ -107,7 +109,8 @@
 </div>
 
 <!-- gallery and carousel controls, hidden by default -->
-<div id="blueimp-gallery" class="blueimp-gallery" data-use-bootstrap-modal="true">
+<!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
+<div id="blueimp-gallery" class="blueimp-gallery" data-use-bootstrap-modal="false">
     <!-- The container for the modal slides -->
     <div class="slides"></div>
     <!-- Controls for the borderless lightbox -->
@@ -142,7 +145,5 @@
 </div>
 
 
-
-<dnn:DnnJsInclude ID="bluImpJS" runat="server" FilePath="js/jquery.blueimp-gallery.min.js" PathNameAlias="SkinPath" />
-
-
+<dnn:DnnJsInclude ID="blueImpJS" runat="server" FilePath="js/jquery.blueimp-gallery.min.js" PathNameAlias="SkinPath" />
+<dnn:DnnJsInclude ID="blueImpJS2" runat="server" FilePath="js/bootstrap-image-gallery.min.js" PathNameAlias="SkinPath" />

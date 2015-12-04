@@ -5,6 +5,15 @@
 <hr/>
 	<h3>About the HammerFlex</h3>
 
+	
+	<h4>Version 00.01.13</h4><br />
+	Thirteenth release of HammerFlex
+	<h5>Bug Fixes</h5>
+	<ul>
+			<li>Bootstrap V3.3.6</li>
+			<li>Upgraded to Bootstrap Image Gallery 3.1.3 (https://github.com/blueimp/Bootstrap-Image-Gallery)</li>			
+	</ul>
+
 	<h4>Version 00.01.12</h4><br />
 	Thirteenth release of HammerFlex
 	<h5>Bug Fixes</h5>
