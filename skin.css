@@ -520,3 +520,14 @@ body:last-child .blueimp-gallery-playing > .play-pause {
 
 /* fix for coloring on DNN Check boxes and radio */
 .dnnCheckbox .mark, .dnnRadiobutton .mark{ background: none;}
+
+
+/* pTitle is used for BlueImp photo gallery title h3 */
+h3.pTitle {
+    display: block;
+    position: absolute;
+    top: 30px;
+    margin: 0 auto;
+    color: #fff;
+    left: 10px;
+}
