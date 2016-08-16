@@ -6,7 +6,7 @@
 	<h3>About the HammerFlex</h3>
 	<h4>Version 00.01.14</h4><br />
 	Fourteenth release of HammerFlex
-	<h5>Bug Fixes</h5>
+	<h5>Updates / Bug Fixes</h5>
 	<ul>
 			<li>Copyright updated to 2016</li>
 			<li>Bootstrap V3.3.7</li>
