@@ -87,23 +87,27 @@
 
         <div id="BottomPane" runat="server" class="col-md-12" />
     </div>
-    <div id="FooterRow" class="row">
+</div>
 
-        <div id="FooterRowLeft" runat="server" class="col-md-4" />
-        <div id="FooterRowMiddle" runat="server" class="col-md-4" />
-        <div id="FooterRowRight" runat="server" class="col-md-4" />
+<footer id="FooterContainer">
+    <div class="container">
+        <div id="FooterRow" class="row">
+            <div id="FooterRowLeft" runat="server" class="col-md-4" />
+            <div id="FooterRowMiddle" runat="server" class="col-md-4" />
+            <div id="FooterRowRight" runat="server" class="col-md-4" />
 
-        <div id="FooterPane" runat="server" class="col-md-12" />
-        <div id="CopyRightPane" class="SkinLink col-md-12 center">
-            <div class="col-md-12">
-                <dnn:copyright ID="dnnCopyright" runat="server" />
-                <dnn:terms id="dnnTerms" runat="server" />
-                <dnn:privacy id="dnnPrivacy" runat="server" />
+            <div id="FooterPane" runat="server" class="col-md-12" />
+            <div id="CopyRightPane" class="SkinLink col-md-12 center">
+                <div class="col-md-12">
+                    <dnn:copyright ID="dnnCopyright" runat="server" />
+                    <dnn:terms id="dnnTerms" runat="server" />
+                    <dnn:privacy id="dnnPrivacy" runat="server" />
+                </div>
+                <a href="http://cjh.am/1mGBQby" target="_blank">Design: HammerFlex DNN Skin by Christoc.com</a>
             </div>
-            <a href="http://cjh.am/1mGBQby" target="_blank">Design: HammerFlex DNN Skin by Christoc.com</a>
         </div>
     </div>
-</div>
+</footer>
 
 <!-- gallery and carousel controls, hidden by default -->
 <!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->

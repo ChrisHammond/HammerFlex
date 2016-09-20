@@ -3,7 +3,16 @@
 	<a href="mailto:skins@christoc.com">skins@christoc.com</a><br />
 	<a href=http://www.christoc.com>http://www.christoc.com</a><br />
 <hr/>
-	<h3>About the HammerFlex</h3>
+
+<h3>About the HammerFlex</h3>
+	<h4>Version 00.01.15</h4><br />
+	Fifteenth release of HammerFlex
+	<h5>Updates / Bug Fixes</h5>
+	<ul>
+			<li>Added Footer row to allow for full width styling</li>
+			
+	</ul>
+
 	<h4>Version 00.01.14</h4><br />
 	Fourteenth release of HammerFlex
 	<h5>Updates / Bug Fixes</h5>
