@@ -10,6 +10,9 @@
 	<h5>Updates / Bug Fixes</h5>
 	<ul>
 			<li>Added Footer row to allow for full width styling</li>
+			<li>Copyright updated to 2017</li>
+			<li>Adjusted menu padding to 20px top/bottom</li>
+			<li>Most likely the final release of HammerFlex, unless Boostrap 3.* has another release. <a href="http://github.com/ChrisHammond/HammerHead">Check out HammerHead for a BootStrap 4 Theme for DotNetNuke</a></li>
 			
 	</ul>
 

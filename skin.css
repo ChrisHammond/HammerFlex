@@ -73,9 +73,8 @@ ul.dnnAdminTabNav {
 
 /* Addition to bootstrap menu styles */
 /* Displace second and deeper level menus right from their parent.  */
-.dropdown-menu .dropdown-menu
-{
-  margin-left:160px;
+.dropdown-menu .dropdown-menu {
+    margin-left: 160px;
 }
 
 
@@ -103,6 +102,14 @@ ul.dnnAdminTabNav {
         color: #ffffff;
         background-color: #178acc;
     }
+
+
+.navbar-nav > li > a {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
 
 
 /*------------------------------------------------*/
@@ -142,9 +149,8 @@ ul.dnnAdminTabNav {
         .navbar-right .loginGroup a {
             display: block;
             position: relative;
-            height: 50px;
             min-width: 12px;
-            padding: 15px 15px 0 15px;
+            padding: 20px 20px 20px 20px;
             vertical-align: middle;
         }
 
@@ -177,6 +183,7 @@ ul.dnnAdminTabNav {
     .navbar-right .userMessages a,
     .navbar-right .userNotifications a {
         background-color: transparent;
+        margin: 10px 0;
     }
 
     .navbar-right .userMessages strong {
@@ -202,14 +209,14 @@ ul.dnnAdminTabNav {
 
 
     .navbar-right .registerGroup .userProfileImg a {
-        min-width: 50px;
-        min-height: 50px;
+        min-width: 62px;
+        min-height: 62px;
         padding: 0;
     }
 
     .navbar-right .registerGroup a img {
-        height: 50px;
-        width: 50px;
+        height: 62px;
+        width: 62px;
     }
 
     /* Login Group Styles */
@@ -513,13 +520,15 @@ body:last-child .blueimp-gallery-playing > .play-pause {
 
 /* fix for DNN dropdown lists being cut off*/
 
-.dnnDropDownList .selected-item, .dnnDropDownList .selected-item a  {
+.dnnDropDownList .selected-item, .dnnDropDownList .selected-item a {
     height: 35px !important;
 }
 
 
 /* fix for coloring on DNN Check boxes and radio */
-.dnnCheckbox .mark, .dnnRadiobutton .mark{ background: none;}
+.dnnCheckbox .mark, .dnnRadiobutton .mark {
+    background: none;
+}
 
 
 /* pTitle is used for BlueImp photo gallery title h3 */
