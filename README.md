@@ -3,7 +3,7 @@ HammerFlex
 
 Description
 -----------
-Another free open source skin for DNN (DotNetNuke) using Bootstrap 3. 
+Another free open source skin for DNN (DotNetNuke) using Bootstrap 3. If you are looking for a Bootstrap 4 skin, [check out HammerHead](http://github.com/ChrisHammond/HammerHead).
 
 Installation and Customization
 ------------------------------
