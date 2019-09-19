@@ -5,6 +5,15 @@
 <hr/>
 
 <h3>About the HammerFlex</h3>
+	<h4>Version 00.01.16</h4><br />
+	Sixteenth release of HammerFlex
+	<h5>Updates / Bug Fixes</h5>
+	<ul>
+			<li>Updated Bootstrap to 3.4.1</li>
+			<li>Updated Copyright</li>
+			<li>Repeat: Most likely the final release of HammerFlex, unless Boostrap 3.* has another release. <a href="http://github.com/ChrisHammond/HammerFlex2">Check out HammerFlex2 for a BootStrap 4 Theme for DotNetNuke</a></li>
+			
+	</ul>
 	<h4>Version 00.01.15</h4><br />
 	Fifteenth release of HammerFlex
 	<h5>Updates / Bug Fixes</h5>

@@ -3,7 +3,7 @@ HammerFlex
 
 Description
 -----------
-Another free open source skin for DNN (DotNetNuke) using Bootstrap 3. If you are looking for a Bootstrap 4 skin, [check out HammerHead](http://github.com/ChrisHammond/HammerHead).
+Another free open source skin for DNN (DotNetNuke) using Bootstrap 3. If you are looking for a Bootstrap 4 skin, [check out HammerFlex2](http://github.com/ChrisHammond/HammerFlex2).
 
 Installation and Customization
 ------------------------------
@@ -31,3 +31,7 @@ An early version of this skin is the base for the C# Theme Template found in Chr
 
 If you don't want/need to change the source code itself, you could simply override the CSS for the skin by modifying your Portal.CSS file.
 
+
+Christoc.com Software Solutions
+---------------------------------
+Need some DNN consulting, training, or assistance? [Visit us for pricing details](http://www.christoc.com/).
