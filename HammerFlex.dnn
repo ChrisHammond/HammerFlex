@@ -1,6 +1,6 @@
 <dotnetnuke type="Package" version="5.0">
   <packages>
-    <package name="Christoc.Skins.HammerFlex" type="Skin" version="00.01.16">
+    <package name="Christoc.Skins.HammerFlex" type="Skin" version="00.01.17">
       <friendlyName>HammerFlex</friendlyName>
       <description>A responsive DNN skin using Bootstrap 3. Requires installation via the Host/Extensions page.</description>
       <owner>
@@ -13,7 +13,7 @@
       <license src="license.txt"></license>
       <releaseNotes src="releasenotes.txt"></releaseNotes>
       <dependencies>
-        <dependency type="CoreVersion">07.01.00</dependency>
+        <dependency type="CoreVersion">09.04.00</dependency>
       </dependencies>
       <components>
         <component type="ResourceFile">
@@ -49,7 +49,7 @@
         </component>
       </components>
     </package>
-    <package name="Christoc.Containers.HammerFlex" type="Container" version="00.01.16">
+    <package name="Christoc.Containers.HammerFlex" type="Container" version="00.01.17">
       <friendlyName>HammerFlex</friendlyName>
       <description>Containers for the HammerFlex Skin package.</description>
       <owner>
@@ -61,7 +61,7 @@
       <license src="license.txt"></license>
       <releaseNotes src="releasenotes.txt"></releaseNotes>
       <dependencies>
-        <dependency type="CoreVersion">07.01.00</dependency>
+        <dependency type="CoreVersion">09.04.00</dependency>
       </dependencies>
       <components>
         <component type="Container">

@@ -1,5 +1,5 @@
 ﻿/*
-' Copyright (c) 2014-2019 Christoc.com
+' Copyright (c) 2014-2021 Christoc.com
 '  All rights reserved.
 ' 
 ' THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
@@ -9,13 +9,6 @@
 ' DEALINGS IN THE SOFTWARE.
 ' 
 */
-
-using System;
-using DotNetNuke.Security;
-using DotNetNuke.Services.Exceptions;
-using DotNetNuke.Entities.Modules;
-using DotNetNuke.Entities.Modules.Actions;
-using DotNetNuke.Services.Localization;
 
 namespace Christoc.Skins.HammerFlex
 {

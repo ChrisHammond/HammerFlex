@@ -1,5 +1,5 @@
 ﻿/*
-' Copyright (c) 2014-2019 Christoc.com
+' Copyright (c) 2014-2021 Christoc.com
 '  All rights reserved.
 ' 
 ' THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
@@ -13,6 +13,7 @@
 
 using System;
 using DotNetNuke.Framework;
+using DotNetNuke.Framework.JavaScriptLibraries;
 
 namespace Christoc.Skins.HammerFlex
 {
@@ -25,9 +26,7 @@ namespace Christoc.Skins.HammerFlex
 
         private void RegisterJavaScript()
         {
-            jQuery.RequestRegistration();
-            //ClientResourceManager.RegisterScript(Page, "/portals/_default/skins/hammerflex/js/jquery.blueimp-gallery.min.js", FileOrder.Js.jQuery, "DnnFormBottomProvider"); // default priority and provider
-            //ClientResourceManager.RegisterScript(Page, "/portals/_default/skins/hammerflex/js/bootstrap-image-gallery.min.js", FileOrder.Js.jQuery, "DnnFormBottomProvider"); // default priority and provider           
+            JavaScript.RequestRegistration(CommonJs.jQuery);           
             
         }
     }

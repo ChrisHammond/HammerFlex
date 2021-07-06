@@ -5,6 +5,15 @@
 <hr/>
 
 <h3>About the HammerFlex</h3>
+
+	<h4>Version 00.01.17</h4><br />
+	Seventeenth release of HammerFlex
+	<h5>Updates / Bug Fixes</h5>
+	<ul>
+			<li>Fixed logingroup padding</li>
+			
+	</ul>
+
 	<h4>Version 00.01.16</h4><br />
 	Sixteenth release of HammerFlex
 	<h5>Updates / Bug Fixes</h5>

@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("HammerFlex")]
-[assembly: AssemblyCopyright("Christoc.com Copyright © 2017")]
+[assembly: AssemblyCopyright("Christoc.com Copyright © 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -30,5 +30,5 @@ using System.Runtime.InteropServices;
 //
 // You can specify all the values or you can default the Revision and Build Numbers 
 // by using the '*' as shown below:
-[assembly: AssemblyVersion("00.01.16.*")]
-[assembly: AssemblyFileVersion("00.01.16.*")]
+[assembly: AssemblyVersion("00.01.17.*")]
+[assembly: AssemblyFileVersion("00.01.17.*")]
